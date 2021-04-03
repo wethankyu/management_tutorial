@@ -8,7 +8,9 @@ Backend : NODEJS, MySQL, AWS RDB
 ################ FEATURES ##############
 #
 Add a Customer
+#
 Delete a Customer
+#
 Search a Customer
 #
 ############## DEMONSTRATION ############
@@ -21,5 +23,3 @@ Search a Customer
 #
 ![C2](https://user-images.githubusercontent.com/30562644/113485597-62c06980-94e9-11eb-906a-af84056300ae.JPG)
 #
-#########################################
-
