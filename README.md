@@ -1,17 +1,15 @@
-########################################
+#      Client Management System
 
-      Client Management System
- 
-############## STACKED USED ############
+############### STACKS ############
 #
-# Frontend : REACT, JAVASCRIPT
-# Backend : NODEJS, MySQL, AWS RDB
+Frontend : REACT, JAVASCRIPT
+Backend : NODEJS, MySQL, AWS RDB
 #
 ################ FEATURES ##############
 #
-# Add a Customer
-# Delete a Customer
-# Search a Customer
+Add a Customer
+Delete a Customer
+Search a Customer
 #
 ############## DEMONSTRATION ############
 #
